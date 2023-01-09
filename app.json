@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e26e2efe-75b2-49db-86a6-b9680e1919e5"
+      }
+    },
+    "owner": "dejiabiola"
   }
 }
